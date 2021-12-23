@@ -2,5 +2,5 @@
 
 Hola, soy Nico!
 
-Actualmente me especializo en ReactJS.
+
 
